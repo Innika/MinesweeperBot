@@ -56,7 +56,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Configurator.cs" />
+    <Compile Include="GameField.cs" />
+    <Compile Include="Square.cs" />
+    <Compile Include="MinesweeperBot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
